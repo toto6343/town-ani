@@ -152,7 +152,7 @@ town-ani-main/
 ### 1️⃣ 프로젝트 클론
 
 ```bash
-git clone https://github.com/yourusername/town-ani.git
+git clone https://github.com/toto6343/town-ani.git
 cd town-ani
 ```
 
